@@ -1,2 +1,2 @@
 # gitdemo
-my first demo repository
+## my first demo repository
